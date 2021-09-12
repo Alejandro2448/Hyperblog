@@ -9,5 +9,6 @@ En este cuso veremos de todo:
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades multiples de Freddy
+* Creado por el increible Alejandro2448
 
 y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si has llegado aqui de casualidad quizas te interese [el curso](http://platzi.com/clases/git-github/ "el curso").
