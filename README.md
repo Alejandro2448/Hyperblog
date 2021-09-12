@@ -10,5 +10,6 @@ En este cuso veremos de todo:
 * Trucos muy locos del profesor
 * Las personalidades multiples de Freddy
 * Creado por el increible Alejandro2448
+* Incluye un gran aburrimiento
 
 y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si has llegado aqui de casualidad quizas te interese [el curso](http://platzi.com/clases/git-github/ "el curso").
